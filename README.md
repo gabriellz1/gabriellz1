@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Programming student passionate about technology and development.<br><br>I'm currently focused on learning Vue.js, with the goal of becoming a fullstack developer.<br>I have experience with several programming languages and frameworks, which gives me a broad understanding of the development ecosystem.<br><br>🔧 Always looking for new challenges, continuous learning, and projects that help me grow as a developer.<br>💡 Here on GitHub, I share my studies, personal projects, and experiments with different technologies.</p>
+<p align="left">🎓 Programming student passionate about technology and development.<br><br>I'm currently focused on learning Vue.js, with the goal of becoming a front end developer.<br>I have experience with several programming languages and frameworks, which gives me a broad understanding of the development ecosystem.<br><br>🔧 Always looking for new challenges, continuous learning, and projects that help me grow as a developer.<br>💡 Here on GitHub, I share my studies, personal projects, and experiments with different technologies.</p>
 
 ###
 
