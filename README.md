@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating security “oops” moments since 2024<br>📚 Currently diving into cybersecurity fundamentals and programming<br>🎯 My goal is to build a solid career protecting systems and data<br>🧠 Sometimes I debug my mistakes before my code</p>
+<p align="left">✨ Creating security “oops” moments since 2024<br>📚 I'm currently learning english  and cybersecurity fundamentals <br>🎯 My goal is to build a solid career protecting systems and data<br>🧠 Sometimes I debug my mistakes before my code</p>
 
 ###
 
